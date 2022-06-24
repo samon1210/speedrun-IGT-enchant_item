@@ -1,0 +1,15 @@
+{
+    "id": "enchant_item",
+    "name": "enchant_item",
+    "version": ">=1.13",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+        [
+            {
+                "type": "achieve_advancement",
+                "name": "enchant_item",
+                "advancement": "minecraft:story/enchant_item"
+            }
+        ]
+    ]
+}
